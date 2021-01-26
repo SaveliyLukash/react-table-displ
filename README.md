@@ -9,10 +9,10 @@
 ![Screen 2](/other/screens/Screenshot_2.png?raw=true)
 
 #### "Sort column in ascending order"
-![Screen 3](/other/screens/Screenshot_2.png?raw=true)
+![Screen 3](/other/screens/Screenshot_3.png?raw=true)
 
 #### "Sort + Pagination"
-![Screen 4](/other/screens/Screenshot_2.png?raw=true)
+![Screen 4](/other/screens/Screenshot_4.png?raw=true)
 
 ### Installation guide
 
